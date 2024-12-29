@@ -1,6 +1,4 @@
+from extensions.api_actions import APIActions
 
-
-
-
-class API_test:
+class Test_api:
     pass
